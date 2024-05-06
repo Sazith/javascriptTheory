@@ -1,6 +1,6 @@
 # javascriptTheory
 
-#FizzBuzz Problem
+# FizzBuzz Problem
 Write a short program that prints each number from 1 to 100 on a new line. 
 
 For each multiple of 3, print "Fizz" instead of the number. 
@@ -9,7 +9,7 @@ For each multiple of 5, print "Buzz" instead of the number.
 
 For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number.
 
-#ibonacci
+# Fibonacci
 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
 
 F(0) = 0, F(1) = 1
